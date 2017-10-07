@@ -25,9 +25,9 @@ public class AndOrBooleanOp {
 
     /*
     Indsæt x, y og z i konsollen, f.eks.
-    2, 3 og 6, herefter (læg her mærke til !(x < y). '!' = 'ikke')
-    3, 3 og 6, herefter
-    3, 3 og 2, og til sidst
+    2, 3 og 6, herefter prøv (læg her mærke til !(x < y). '!' = 'ikke')
+    3, 3 og 6, herefter prøv
+    3, 3 og 2, og til sidst prøv
     2, 3 og 2.
     */
         System.out.println("Indsæt x, y og z: (3.24 side 118)");
